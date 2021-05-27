@@ -1,0 +1,200 @@
+[2021-05-06 17:21:04] Executing bootstrap tasks
+[2021-05-06 17:21:04] OpenJDK Runtime Environment 15.0.2+7-27
+[2021-05-06 17:21:04] Product org.eclipse.products.epp.package.jee.2021-03
+[2021-05-06 17:21:04] Bundle org.eclipse.oomph.setup 1.19.0.v20210223-0655, build=5032, branch=de1d74a6bf3addd102f8a873eabac293fbeaa3ad
+[2021-05-06 17:21:04] Bundle org.eclipse.oomph.setup.core 1.19.0.v20210221-1019, build=5032, branch=de1d74a6bf3addd102f8a873eabac293fbeaa3ad
+[2021-05-06 17:21:04] Bundle org.eclipse.oomph.setup.p2 1.16.0.v20200814-1205, build=5032, branch=de1d74a6bf3addd102f8a873eabac293fbeaa3ad
+[2021-05-06 17:21:04] Performing P2 Director (Eclipse IDE for Enterprise Java and Web Developers (2021-03) + JRE 15.0.2)
+[2021-05-06 17:21:04] Offline = false
+[2021-05-06 17:21:04] Mirrors = true
+[2021-05-06 17:21:04] Resolving 87 requirements from 4 repositoriesto C:\Users\darad\Desktop\IACSD\eclipse\eclipse
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.justj.openjdk.hotspot.jre.full.feature.group (filter=(|(&(osgi.arch=x86_64)(osgi.os=linux))(&(osgi.arch=aarch64)(osgi.os=linux))(&(osgi.arch=x86_64)(osgi.os=macosx))(&(osgi.arch=x86_64)(osgi.os=win32))))
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:epp.package.jee [4.19.0,5.0.0)
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.platform.feature.group [4.19.0,5.0.0)
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.rcp.feature.group [4.19.0,5.0.0)
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.buildship.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.datatools.common.doc.user.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.datatools.connectivity.doc.user.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.datatools.connectivity.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.datatools.connectivity.oda.designer.core.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.datatools.connectivity.oda.designer.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.datatools.connectivity.oda.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.datatools.doc.user.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.datatools.enablement.apache.derby.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.datatools.enablement.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.datatools.enablement.hsqldb.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.datatools.enablement.ibm.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.datatools.enablement.ingres.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.datatools.enablement.jdbc.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.datatools.enablement.jdt.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.datatools.enablement.msft.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.datatools.enablement.mysql.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.datatools.enablement.oda.designer.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.datatools.enablement.oda.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.datatools.enablement.oracle.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.datatools.enablement.postgresql.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.datatools.enablement.sap.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.datatools.enablement.sdk.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.datatools.enablement.sqlite.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.datatools.enablement.sybase.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.datatools.intro.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.datatools.modelbase.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.datatools.sdk.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.datatools.sqldevtools.data.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.datatools.sqldevtools.ddl.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.datatools.sqldevtools.ddlgen.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.datatools.sqldevtools.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.datatools.sqldevtools.parsers.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.datatools.sqldevtools.results.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.datatools.sqldevtools.schemaobjecteditor.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.datatools.sqldevtools.sqlbuilder.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.datatools.sqltools.doc.user.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.eclemma.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.egit.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.egit.mylyn.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.epp.mpc.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.jdt.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.jpt.common.eclipselink.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.jpt.common.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.jpt.jaxb.eclipselink.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.jpt.jaxb.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.jpt.jpa.eclipselink.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.jpt.jpa.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.jsf.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.jst.common.fproj.enablement.jdt.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.jst.enterprise_ui.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.jst.jsf.apache.trinidad.tagsupport.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.jst.server_adapters.ext.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.jst.server_adapters.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.jst.server_ui.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.jst.web_ui.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.jst.webpageeditor.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.jst.ws.axis2tools.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.jst.ws.cxf.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.jst.ws.jaxws.dom.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.jst.ws.jaxws.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.m2e.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.m2e.logback.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.m2e.pde.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.m2e.wtp.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.m2e.wtp.jaxrs.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.m2e.wtp.jpa.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.m2e.wtp.jsf.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.mylyn.bugzilla_feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.mylyn.context_feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.mylyn.ide_feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.mylyn.java_feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.mylyn.wikitext_feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.mylyn_feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.pde.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.tips.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.tm.terminal.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.wildwebdeveloper.embedder.node.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.wildwebdeveloper.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.wst.common.fproj.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.wst.server_adapters.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.wst.xsl.feature.feature.group
+[2021-05-06 17:21:04] Requirement org.eclipse.equinox.p2.iu:org.eclipse.oomph.setup.feature.group
+[2021-05-06 17:21:04] Repository http://download.eclipse.org/justj/jres/15/updates/release/15.0.2
+[2021-05-06 17:21:04] Repository http://download.eclipse.org/technology/epp/packages/2021-03/202103121200
+[2021-05-06 17:21:04] Repository http://download.eclipse.org/releases/2021-03/202103171000
+[2021-05-06 17:21:04] Repository http://download.eclipse.org/oomph/updates/milestone/latest
+[2021-05-06 17:21:08] Calculating requirements and dependencies.
+[2021-05-06 17:21:11] Computing prerequisite plan
+[2021-05-06 17:21:16] Collecting 1 artifacts from http://download.eclipse.org/technology/epp/packages/2021-03/202103121200
+[2021-05-06 17:21:16] Downloading epp.package.jee.executable.win32.win32.x86_64
+[2021-05-06 17:21:16] Collected 1 artifacts for http://download.eclipse.org/technology/epp/packages/2021-03/202103121200 in 0.009s
+[2021-05-06 17:21:18] Collecting 71 artifacts from http://download.eclipse.org/releases/2021-03/202103171000
+[2021-05-06 17:21:19] Downloading org.eclipse.jst.j2ee.core
+[2021-05-06 17:21:19] Downloading org.eclipse.rcp_root
+[2021-05-06 17:21:19] Downloading org.eclipse.platform_root
+[2021-05-06 17:21:19] Downloading org.eclipse.platform.ide.executable.win32.win32.x86_64
+[2021-05-06 17:21:19] Downloading org.eclipse.m2e.core
+[2021-05-06 17:21:19] Downloading org.eclipse.jpt.jpa.core
+[2021-05-06 17:21:19] Downloading org.eclipse.ui.workbench.texteditor
+[2021-05-06 17:21:19] Downloading org.eclipse.jst.jsf.facelet.core
+[2021-05-06 17:21:19] Downloading org.eclipse.jem.proxy
+[2021-05-06 17:21:19] Downloading org.eclipse.wst.ws.explorer
+[2021-05-06 17:21:19] Downloading org.eclipse.jst.jsf.common
+[2021-05-06 17:21:19] Downloading org.eclipse.buildship.ui
+[2021-05-06 17:21:19] Downloading org.apache.lucene.analyzers-common
+[2021-05-06 17:21:20] Fetching org.apache.lucene.analyzers-common_8.4.1.v20200122-1459.jar from https://mirror.library.ucy.ac.cy/eclipse/releases/2021-03/202103171000/plugins/ (1.67MB)
+[2021-05-06 17:21:20] Fetching org.eclipse.m2e.core_1.17.2.20210211-1654.jar from https://eclipse.mirror.rafal.ca/releases/2021-03/202103171000/plugins/ (598.7kB)
+[2021-05-06 17:21:20] Fetching org.apache.lucene.analyzers-common_8.4.1.v20200122-1459.jar from https://mirror.library.ucy.ac.cy/eclipse/releases/2021-03/202103171000/plugins/ (1.67MB)
+[2021-05-06 17:21:21] Fetching org.eclipse.buildship.ui_3.1.5.v20210113-0929.jar from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse/releases/2021-03/202103171000/plugins/ (682.77kB)
+[2021-05-06 17:21:21] Fetching org.eclipse.jst.j2ee.core_1.4.3.v202101042017.jar from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse//releases/2021-03/202103171000/plugins/ (2.66MB)
+[2021-05-06 17:21:21] Fetching org.eclipse.m2e.core_1.17.2.20210211-1654.jar from https://eclipse.mirror.rafal.ca/releases/2021-03/202103171000/plugins/ (598.7kB)
+[2021-05-06 17:21:21] Fetching org.eclipse.wst.ws.explorer_1.0.1100.v202007222105.jar from https://mirrors.nju.edu.cn/eclipse//releases/2021-03/202103171000/plugins/ (1.8MB)
+[2021-05-06 17:21:21] Fetching org.eclipse.jst.jsf.facelet.core_1.4.2.v201902121810.jar from https://mirrors.neusoft.edu.cn/eclipse/releases/2021-03/202103171000/plugins/ (652.72kB)
+[2021-05-06 17:21:21] Fetching org.eclipse.jst.jsf.common_1.5.103.v201902121810.jar from https://mirror.umd.edu/eclipse/releases/2021-03/202103171000/plugins/ (663.74kB)
+[2021-05-06 17:21:21] Fetching org.eclipse.buildship.ui_3.1.5.v20210113-0929.jar from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse/releases/2021-03/202103171000/plugins/ (682.77kB)
+[2021-05-06 17:21:21] Fetching org.eclipse.jst.j2ee.core_1.4.3.v202101042017.jar from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse//releases/2021-03/202103171000/plugins/ (2.66MB)
+[2021-05-06 17:21:22] Fetching org.apache.lucene.analyzers-common_8.4.1.v20200122-1459.jar from https://mirror.library.ucy.ac.cy/eclipse/releases/2021-03/202103171000/plugins/
+[2021-05-06 17:21:22] Fetching org.eclipse.jst.jsf.facelet.core_1.4.2.v201902121810.jar from https://mirrors.neusoft.edu.cn/eclipse/releases/2021-03/202103171000/plugins/
+[2021-05-06 17:21:22] Fetching org.eclipse.m2e.core_1.17.2.20210211-1654.jar from https://eclipse.mirror.rafal.ca/releases/2021-03/202103171000/plugins/
+[2021-05-06 17:21:22] Fetching org.eclipse.wst.ws.explorer_1.0.1100.v202007222105.jar from https://mirrors.nju.edu.cn/eclipse//releases/2021-03/202103171000/plugins/
+[2021-05-06 17:21:23] Fetching org.eclipse.jem.proxy_2.1.0.v202101081429.jar from https://ftp.jaist.ac.jp/pub/eclipse/releases/2021-03/202103171000/plugins/ (661.86kB)
+[2021-05-06 17:21:23] Fetching org.eclipse.jst.jsf.common_1.5.103.v201902121810.jar from https://mirror.umd.edu/eclipse/releases/2021-03/202103171000/plugins/
+[2021-05-06 17:21:23] Fetching org.eclipse.buildship.ui_3.1.5.v20210113-0929.jar from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse/releases/2021-03/202103171000/plugins/
+[2021-05-06 17:21:23] Fetching org.eclipse.jst.j2ee.core_1.4.3.v202101042017.jar from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse//releases/2021-03/202103171000/plugins/
+[2021-05-06 17:21:23] Fetching org.eclipse.jpt.jpa.core_3.6.0.v202002052252.jar from https://mirrors.ustc.edu.cn/eclipse/releases/2021-03/202103171000/plugins/ (3MB)
+[2021-05-06 17:21:23] Fetching org.eclipse.ui.workbench.texteditor_3.16.0.v20210120-0733.jar from https://mirrors.tuna.tsinghua.edu.cn/eclipse/releases/2021-03/202103171000/plugins/ (651.4kB)
+[2021-05-06 17:21:24] Fetching org.eclipse.jem.proxy_2.1.0.v202101081429.jar from https://ftp.jaist.ac.jp/pub/eclipse/releases/2021-03/202103171000/plugins/ (661.86kB)
+[2021-05-06 17:21:25] Fetching org.eclipse.jem.proxy_2.1.0.v202101081429.jar from https://ftp.jaist.ac.jp/pub/eclipse/releases/2021-03/202103171000/plugins/
+[2021-05-06 17:21:25] Fetching org.eclipse.jpt.jpa.core_3.6.0.v202002052252.jar from https://mirrors.ustc.edu.cn/eclipse/releases/2021-03/202103171000/plugins/
+[2021-05-06 17:21:26] Fetching org.eclipse.ui.workbench.texteditor_3.16.0.v20210120-0733.jar from https://mirrors.tuna.tsinghua.edu.cn/eclipse/releases/2021-03/202103171000/plugins/
+[2021-05-06 17:21:34] Downloading org.eclipse.m2e.core.ui
+[2021-05-06 17:21:35] Downloading org.eclipse.swt.browser.chromium.win32.win32.x86_64
+[2021-05-06 17:21:36] Downloading org.eclipse.jetty.server
+[2021-05-06 17:21:36] Fetching org.eclipse.swt.browser.chromium.win32.win32.x86_64_3.116.0.v20210302-1107.jar from http://download.eclipse.org/releases/2021-03/202103171000/plugins/ (713.31kB)
+[2021-05-06 17:21:38] Fetching org.eclipse.swt.browser.chromium.win32.win32.x86_64_3.116.0.v20210302-1107.jar from http://download.eclipse.org/releases/2021-03/202103171000/plugins/
+[2021-05-06 17:21:40] Fetching org.eclipse.jetty.server_9.4.37.v20210219.jar from https://mirrors.neusoft.edu.cn/eclipse/releases/2021-03/202103171000/plugins/ (724.34kB)
+[2021-05-06 17:21:40] Downloading org.eclipse.jpt.jaxb.core
+[2021-05-06 17:21:41] Fetching org.eclipse.jetty.server_9.4.37.v20210219.jar from https://mirrors.neusoft.edu.cn/eclipse/releases/2021-03/202103171000/plugins/
+[2021-05-06 17:21:47] Fetching org.eclipse.jpt.jaxb.core_1.4.101.v201902121834.jar from https://mirrors.neusoft.edu.cn/eclipse/releases/2021-03/202103171000/plugins/ (739.29kB)
+[2021-05-06 17:21:50] Fetching org.eclipse.jpt.jaxb.core_1.4.101.v201902121834.jar from https://mirrors.neusoft.edu.cn/eclipse/releases/2021-03/202103171000/plugins/
+[2021-05-06 17:21:56] Downloading org.eclipse.epp.mpc.help.ui
+[2021-05-06 17:21:58] Downloading org.eclipse.wst.html.core
+[2021-05-06 17:22:01] Fetching org.eclipse.epp.mpc.help.ui_1.9.1.v20210204-1408.jar from https://mirrors.neusoft.edu.cn/eclipse/releases/2021-03/202103171000/plugins/ (749.78kB)
+[2021-05-06 17:22:01] Fetching org.eclipse.wst.html.core_1.4.0.v202101180039.jar from https://eclipse.mirror.rafal.ca/releases/2021-03/202103171000/plugins/ (772.33kB)
+[2021-05-06 17:22:02] Fetching org.eclipse.epp.mpc.help.ui_1.9.1.v20210204-1408.jar from https://mirrors.neusoft.edu.cn/eclipse/releases/2021-03/202103171000/plugins/
+[2021-05-06 17:22:03] Downloading org.eclipse.lsp4j
+[2021-05-06 17:22:03] Fetching org.eclipse.wst.html.core_1.4.0.v202101180039.jar from https://eclipse.mirror.rafal.ca/releases/2021-03/202103171000/plugins/
+[2021-05-06 17:22:04] Downloading org.eclipse.datatools.enablement.ibm.db2.luw
+[2021-05-06 17:22:06] Fetching org.eclipse.lsp4j_0.10.0.v20201105-1103.jar from https://eclipse.mirror.rafal.ca/releases/2021-03/202103171000/plugins/ (788.7kB)
+[2021-05-06 17:22:11] Fetching org.eclipse.ui.workbench.texteditor_3.16.0.v20210120-0733.jar from https://mirrors.tuna.tsinghua.edu.cn/eclipse/releases/2021-03/202103171000/plugins/ (651.4kB)
+[2021-05-06 17:22:13] Fetching org.eclipse.lsp4j_0.10.0.v20201105-1103.jar from https://eclipse.mirror.rafal.ca/releases/2021-03/202103171000/plugins/ (788.7kB)
+[2021-05-06 17:22:15] Fetching org.eclipse.lsp4j_0.10.0.v20201105-1103.jar from https://eclipse.mirror.rafal.ca/releases/2021-03/202103171000/plugins/
+[2021-05-06 17:22:16] Fetching org.eclipse.buildship.ui_3.1.5.v20210113-0929.jar from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse/releases/2021-03/202103171000/plugins/ (682.77kB)
+[2021-05-06 17:22:18] Fetching org.eclipse.jst.j2ee.core_1.4.3.v202101042017.jar from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse//releases/2021-03/202103171000/plugins/ (2.66MB)
+[2021-05-06 17:22:18] Fetching org.eclipse.datatools.enablement.ibm.db2.luw_1.2.101.201811012051.jar from https://mirrors.nju.edu.cn/eclipse//releases/2021-03/202103171000/plugins/ (819.71kB)
+[2021-05-06 17:22:19] Fetching org.eclipse.datatools.enablement.ibm.db2.luw_1.2.101.201811012051.jar from https://mirrors.nju.edu.cn/eclipse//releases/2021-03/202103171000/plugins/
+[2021-05-06 17:22:20] Downloading org.eclipse.jst.j2ee
+[2021-05-06 17:22:23] Downloading org.eclipse.core.resources
+[2021-05-06 17:22:24] Fetching org.eclipse.jst.j2ee_1.2.500.v202101072335.jar from https://mirrors.nju.edu.cn/eclipse//releases/2021-03/202103171000/plugins/ (1.8MB)
+[2021-05-06 17:22:25] Downloading org.eclipse.jdt.debug
+[2021-05-06 17:22:25] Fetching org.eclipse.jst.j2ee_1.2.500.v202101072335.jar from https://mirrors.nju.edu.cn/eclipse//releases/2021-03/202103171000/plugins/
+[2021-05-06 17:22:26] Fetching org.eclipse.core.resources_3.14.0.v20210215-0934.jar from https://mirrors.nju.edu.cn/eclipse//releases/2021-03/202103171000/plugins/ (877.43kB)
+[2021-05-06 17:22:27] Downloading org.eclipse.jst.jsf.facesconfig.ui
+[2021-05-06 17:22:27] Fetching org.eclipse.core.resources_3.14.0.v20210215-0934.jar from https://mirrors.nju.edu.cn/eclipse//releases/2021-03/202103171000/plugins/
+[2021-05-06 17:22:29] Fetching org.eclipse.jdt.debug_3.17.100.v20210220-1238.jar from https://mirrors.nju.edu.cn/eclipse//releases/2021-03/202103171000/plugins/ (902.67kB)
+[2021-05-06 17:22:30] Fetching org.eclipse.jdt.debug_3.17.100.v20210220-1238.jar from https://mirrors.nju.edu.cn/eclipse//releases/2021-03/202103171000/plugins/
+[2021-05-06 17:22:30] Fetching org.eclipse.jst.jsf.facesconfig.ui_1.5.2.v201902121810.jar from https://eclipse.mirror.rafal.ca/releases/2021-03/202103171000/plugins/ (906.39kB)
+[2021-05-06 17:22:30] Downloading com.sun.xml.bind
+[2021-05-06 17:22:31] Fetching org.eclipse.jst.jsf.facesconfig.ui_1.5.2.v201902121810.jar from https://eclipse.mirror.rafal.ca/releases/2021-03/202103171000/plugins/ (906.39kB)
+[2021-05-06 17:22:32] Fetching org.eclipse.jst.jsf.facesconfig.ui_1.5.2.v201902121810.jar from https://eclipse.mirror.rafal.ca/releases/2021-03/202103171000/plugins/
+[2021-05-06 17:22:33] Mirrored 4 artifacts from https://mirrors.neusoft.edu.cn/eclipse/releases/2021-03/202103171000/ at 35kb/s
+[2021-05-06 17:22:33] Mirrored 2 artifacts from https://mirror.umd.edu/eclipse/releases/2021-03/202103171000/ at 35kb/s with 1 failures
+[2021-05-06 17:22:33] Mirrored 1 artifacts from https://ftp.jaist.ac.jp/pub/eclipse/releases/2021-03/202103171000/ at 32kb/s
+[2021-05-06 17:22:33] Mirrored 1 artifacts from http://download.eclipse.org/releases/2021-03/202103171000/ at 29kb/s
+[2021-05-06 17:22:33] Mirrored 1 artifacts from https://mirror.library.ucy.ac.cy/eclipse/releases/2021-03/202103171000/ at 26kb/s
+[2021-05-06 17:22:33] Mirrored 5 artifacts from https://mirrors.nju.edu.cn/eclipse//releases/2021-03/202103171000/ at 18kb/s with 4 failures
+[2021-05-06 17:22:33] Mirrored 4 artifacts from https://eclipse.mirror.rafal.ca/releases/2021-03/202103171000/ at 17kb/s with 2 failures
+[2021-05-06 17:22:33] Mirrored 1 artifacts from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse/releases/2021-03/202103171000/ at 11kb/s
+[2021-05-06 17:22:33] Mirrored 1 artifacts from https://mirrors.tuna.tsinghua.edu.cn/eclipse/releases/2021-03/202103171000/ at 10kb/s
+[2021-05-06 17:22:33] Mirrored 1 artifacts from https://mirrors.ustc.edu.cn/eclipse/releases/2021-03/202103171000/ at 0kb/s with 1 failures
+[2021-05-06 17:22:33] Mirrored 1 artifacts from https://ftp.yz.yamagata-u.ac.jp/pub/eclipse//releases/2021-03/202103171000/ at 0kb/s with 1 failures
+[2021-05-06 17:22:33] Mirrored 1 artifacts from https://mirrors.jevincanders.net/eclipse/releases/2021-03/202103171000/ at 0kb/s with 1 failures
+[2021-05-06 17:22:33] Collected 71 artifacts for http://download.eclipse.org/releases/2021-03/202103171000 in 74.947s
+[2021-05-06 17:22:33] The engine operation was cancelled and the changes are being rolled back.
+[2021-05-06 17:22:33] 
